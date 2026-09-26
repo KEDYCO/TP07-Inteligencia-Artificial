@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs y archivos locales
+instalacion_log.txt
+entorno/MUJOCO_LOG.TXT
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

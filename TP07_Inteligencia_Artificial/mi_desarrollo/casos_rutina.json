@@ -1,0 +1,3 @@
+[
+  {"id": 26, "texto": "saluda a los estudiantes, girá 90 grados a la derecha, hacé un saludo, avanzá 2 metros, media vuelta y pará todo", "resultado_esperado": "EJECUTAR", "pasos_esperados": ["SALUDO", "GIRAR", "SALUDO", "MOVER", "GIRAR", "DETENERSE"], "motivo": "rutina de visita: casos #3 #4 #22 #1 #15 #13"}
+]
